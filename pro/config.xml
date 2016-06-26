@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+ xmlns:gap = "http://phonegap.com/ns/1.0"
+
+ id = "eu.ghouse.pro"
+ version = "1.0.0">
+
+<name>Hotel App</name>
+
+<description>Reservations</description>
+
+<author href="http://www.ghouse.eu" email="jaspuneet2k0@gmail.com">Google Navigator</author>
+<feature name="http://api.phonegap.com/1.0/device" />
+<gap:plugin name="dk.interface.cordova.plugin.googlenavigate" version="0.1.2" />
+
+<icon src="myicon.png" />
+
+</widget>
